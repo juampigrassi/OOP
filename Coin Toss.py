@@ -17,7 +17,7 @@ def main():
            # Display the side of the coin that is facing up.
            print('This side is up:', my_coin.get_sideup())
 
-           
+           print()
 
 
        
